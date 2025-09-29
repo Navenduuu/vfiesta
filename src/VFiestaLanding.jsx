@@ -38,7 +38,7 @@ export default function VFiestaLanding() {
 
       <section id="home" className="max-w-4xl mx-auto text-center py-16 px-6 lg:py-28" aria-labelledby="hero-heading">
         <h1 id="hero-heading" className="text-3xl md:text-5xl font-extrabold tracking-tight">
-          Medium length hero headline goes here
+          <img src="vfiesta4\public\assets\vlogo.png" alt="" />
         </h1>
         <p className="mt-4 text-sm md:text-base text-gray-600">
           Get ready to dive into a world of innovation, creativity, and discovery brought to you by IEEE PIE Kerala Section
