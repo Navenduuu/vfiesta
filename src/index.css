@@ -21,3 +21,9 @@ html {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Aderos Trial', 'Montserrat', ui-sans-serif, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+.caption {
+	font-family: 'Aderos Trial', 'Montserrat', ui-sans-serif, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
